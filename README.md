@@ -6,11 +6,8 @@
 
 <div align="center">
 
-# Siddharth Kumar
 
-Data Analytics · Business Intelligence · AI Systems · Growth Strategy
-
-Greater Noida, India
+Noida, India
 
 <a href="https://www.linkedin.com/in/siddharth-kumar-0938ab245/">LinkedIn</a> ·
 <a href="mailto:siddharthk1500@gmail.com">Email</a> ·
@@ -19,17 +16,6 @@ Greater Noida, India
 
 </div>
 
----
-
-## Philosophy
-
-I believe good decisions are rarely driven by intuition alone.
-
-Whether I'm analysing business operations, designing AI-powered systems, or building digital communities, I approach every problem through the same lens: understand the data, identify patterns, and create solutions that produce measurable outcomes.
-
-My work spans business analytics, machine learning, data visualization, content strategy, and product thinking—connecting technical execution with business impact.
-
----
 
 ## Selected Work
 
