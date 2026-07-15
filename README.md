@@ -131,15 +131,15 @@ Published in the Journal of Intelligent Computing System.
 
 ## Leadership
 
-GDG On Campus GBU
+Management Lead - GDG On Campus GBU
 
-Microsoft Learn Student Ambassador
+Management Lead - Microsoft Learn Student Ambassador
 
 Founder — GBU Community
 
 Public Relations Head — Smart India Hackathon
 
-Producer — Mirage Film & Photography Society
+Founder — Mirage Film & Photography Society
 
 ---
 
