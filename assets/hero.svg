@@ -1,1 +1,45 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" xmlns="http://www.w3.org/2000/svg">
 
+<rect width="1400" height="420" fill="#ffffff"/>
+
+<line x1="120" y1="70" x2="1280" y2="70" stroke="#d8d8d8" stroke-width="1"/>
+
+<line x1="120" y1="350" x2="1280" y2="350" stroke="#d8d8d8" stroke-width="1"/>
+
+<text
+x="700"
+y="165"
+text-anchor="middle"
+font-size="54"
+font-family="Georgia, Times New Roman, serif"
+fill="#111111">
+
+Siddharth Kumar
+
+</text>
+
+<text
+x="700"
+y="210"
+text-anchor="middle"
+font-size="18"
+font-family="Georgia, Times New Roman, serif"
+fill="#666666">
+
+Data • Intelligence • Strategy
+
+</text>
+
+<text
+x="700"
+y="250"
+text-anchor="middle"
+font-size="16"
+font-family="Georgia, Times New Roman, serif"
+fill="#888888">
+
+Building intelligent systems that transform data into decisions.
+
+</text>
+
+</svg>
